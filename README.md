@@ -30,12 +30,18 @@ Copy
 Edit
 
 ---
+## 📄 Project Report
+
+👉 [Download PPE_Model_Report.pdf](./PPE_Model_Report.pdf)  
+[![PDF Report](https://img.shields.io/badge/Download-Project_Report-blue.svg)](./PPE_Model_Report.pdf)
+
 
 ## ⚙️ Setup Instructions
 
 ### ✅ 1. Clone the Repository
 
 ```bash
+
 git clone https://github.com/Dev-B-cypher/Real-Time-PPE-Detection.git
 cd Real-Time-PPE-Detection
 ✅ 2. Create a Virtual Environment (Optional but Recommended)
